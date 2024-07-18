@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "741065390896",
+    "project_id": "amie-8ac14",
+    "storage_bucket": "amie-8ac14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741065390896:android:01932b09c45158221ca6f5",
+        "android_client_info": {
+          "package_name": "com.example.amie_notetakingapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741065390896-1ggcaro5sp2bbnsmo56fra7567h3frsa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amie_notetakingapplication",
+            "certificate_hash": "19cfb92a17050ecf62840567402439d72bade228"
+          }
+        },
+        {
+          "client_id": "741065390896-bml2d38fg972vop0jssvmeo9utsntqht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASxWg_2FTF-pGgDEyP1p1xmEE26HJvnbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741065390896-bml2d38fg972vop0jssvmeo9utsntqht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
